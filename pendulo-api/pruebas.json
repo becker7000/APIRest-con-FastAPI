@@ -1,0 +1,90 @@
+[
+    {
+      "_id": "681aa15c95f0a09bf9c80d0b",
+      "titulo": "Ficciones",
+      "autor": "Jorge Luis Borges",
+      "genero": "Ficción",
+      "editorial": "Sur",
+      "fecha_publicacion": "1944-01-01T00:00:00",
+      "descripcion": "Colección de cuentos con temas metafísicos.",
+      "stock": 7,
+      "disponible": true
+    },
+    {
+      "_id": "681aa4b21101f2662a56a493",
+      "titulo": "Crónica de una muerte anunciada",
+      "autor": "Gabriel García Márquez",
+      "genero": "Novela corta",
+      "editorial": "Editorial Sudamericana",
+      "fecha_publicacion": "1981-01-01T00:00:00",
+      "descripcion": "Una historia narrada en torno a un crimen inevitable.",
+      "stock": 8,
+      "disponible": true
+    },
+    {
+      "_id": "681aa4d41101f2662a56a494",
+      "titulo": "Breve historia del tiempo",
+      "autor": "Stephen Hawking",
+      "genero": "Física",
+      "editorial": "Crítica",
+      "fecha_publicacion": "1988-04-01T00:00:00",
+      "descripcion": "Explora el origen y estructura del universo, agujeros negros y el tiempo.",
+      "stock": 7,
+      "disponible": true
+    },
+    {
+      "_id": "681aa4e21101f2662a56a495",
+      "titulo": "El universo en una cáscara de nuez",
+      "autor": "Stephen Hawking",
+      "genero": "Física",
+      "editorial": "Debolsillo",
+      "fecha_publicacion": "2001-10-01T00:00:00",
+      "descripcion": "Una introducción visual a conceptos avanzados de cosmología.",
+      "stock": 5,
+      "disponible": true
+    },
+    {
+      "_id": "681aa5001101f2662a56a496",
+      "titulo": "Hackers: Heroes of the Computer Revolution",
+      "autor": "Steven Levy",
+      "genero": "Cultura informática",
+      "editorial": "O'Reilly Media",
+      "fecha_publicacion": "1984-01-01T00:00:00",
+      "descripcion": "Crónica de los primeros hackers y la ética hacker.",
+      "stock": 4,
+      "disponible": true
+    },
+    {
+      "_id": "681aa5091101f2662a56a497",
+      "titulo": "Código: La historia del software",
+      "autor": "Charles Petzold",
+      "genero": "Tecnología",
+      "editorial": "Microsoft Press",
+      "fecha_publicacion": "1999-09-01T00:00:00",
+      "descripcion": "Cómo los humanos pasaron de luces y cables al software moderno.",
+      "stock": 6,
+      "disponible": true
+    },
+    {
+      "_id": "681aa73442cab26d19b2712d",
+      "titulo": "La realidad no es lo que parece",
+      "autor": "Carlo Rovelli",
+      "genero": "Física",
+      "editorial": "Tusquets",
+      "fecha_publicacion": "2014-01-01T00:00:00",
+      "descripcion": "Una introducción accesible a la física cuántica y la teoría del tiempo.",
+      "stock": 5,
+      "disponible": true
+    },
+    {
+      "_id": "681aa9df871263cf0a0422fb",
+      "titulo": "La teoría de todo",
+      "autor": "Stephen Hawking",
+      "genero": "Física, Ciencia y Pasión",
+      "editorial": "Editorial Planeta",
+      "fecha_publicacion": "2002-01-01T00:00:00",
+      "descripcion": "Una introducción a la cosmología, explorando el origen y el destino del universo.",
+      "stock": 10,
+      "disponible": true
+    }
+  ]
