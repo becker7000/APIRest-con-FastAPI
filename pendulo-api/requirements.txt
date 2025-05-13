@@ -2,4 +2,6 @@ fastapi
 uvicorn[standard]
 pydantic
 python-dotenv
-motor         # MongoDB async driver
+motor
+pydantic-settings
+pymongo
